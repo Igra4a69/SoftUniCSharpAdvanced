@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "Matchin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "PrintEvenNumbers\PrintEvenNumbers.csproj", "{1F488981-7AEC-42BD-B646-942F4067F848}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket\Supermarket.csproj", "{50B8A8D6-5020-41E9-B2A9-7D76B262A09B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{1F488981-7AEC-42BD-B646-942F4067F848}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F488981-7AEC-42BD-B646-942F4067F848}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F488981-7AEC-42BD-B646-942F4067F848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B8A8D6-5020-41E9-B2A9-7D76B262A09B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B8A8D6-5020-41E9-B2A9-7D76B262A09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B8A8D6-5020-41E9-B2A9-7D76B262A09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B8A8D6-5020-41E9-B2A9-7D76B262A09B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
