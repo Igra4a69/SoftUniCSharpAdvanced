@@ -15,7 +15,7 @@ class Program
             for (int i = 0; i < n - 1; i++)
             {
                 string kid = queue.Dequeue();
-                queue.Enqueue(kid); // Въртим децата
+                queue.Enqueue(kid); 
             }
 
             string removedKid = queue.Dequeue(); 
