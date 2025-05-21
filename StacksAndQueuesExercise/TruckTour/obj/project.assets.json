@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\BalancedParenthesis\\BalancedParenthesis.csproj",
-      "projectName": "BalancedParenthesis",
-      "projectPath": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\BalancedParenthesis\\BalancedParenthesis.csproj",
+      "projectUniqueName": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\TruckTour\\TruckTour.csproj",
+      "projectName": "TruckTour",
+      "projectPath": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\TruckTour\\TruckTour.csproj",
       "packagesPath": "C:\\Users\\pavsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\BalancedParenthesis\\obj\\",
+      "outputPath": "C:\\Users\\pavsh\\Documents\\Coding\\ItCareerRepos\\SoftUniCSharpAdvanced\\StacksAndQueuesExercise\\TruckTour\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

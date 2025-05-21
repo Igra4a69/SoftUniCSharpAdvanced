@@ -1,4 +1,4 @@
-﻿namespace BalancedParenthesis;
+﻿namespace TruckTour;
 
 class Program
 {
