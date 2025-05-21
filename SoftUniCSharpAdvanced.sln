@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "StackSum\StackS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{DDC1BC6B-04C6-453F-A850-793C4B0D5CBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchingBrackets", "MatchingBrackets\MatchingBrackets.csproj", "{4879070E-6DBF-4B3D-BB9D-8A9119458FA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DDC1BC6B-04C6-453F-A850-793C4B0D5CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDC1BC6B-04C6-453F-A850-793C4B0D5CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDC1BC6B-04C6-453F-A850-793C4B0D5CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4879070E-6DBF-4B3D-BB9D-8A9119458FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4879070E-6DBF-4B3D-BB9D-8A9119458FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4879070E-6DBF-4B3D-BB9D-8A9119458FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4879070E-6DBF-4B3D-BB9D-8A9119458FA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
