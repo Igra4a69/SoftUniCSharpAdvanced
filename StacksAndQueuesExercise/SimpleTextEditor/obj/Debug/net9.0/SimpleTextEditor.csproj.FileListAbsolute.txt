@@ -1,0 +1,5 @@
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net9.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net9.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net9.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net9.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net9.0\SimpleTextEditor.sourcelink.json
