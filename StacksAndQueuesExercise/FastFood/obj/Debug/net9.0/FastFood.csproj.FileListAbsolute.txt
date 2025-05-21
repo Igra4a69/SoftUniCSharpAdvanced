@@ -1,0 +1,5 @@
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net9.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net9.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net9.0\FastFood.AssemblyInfo.cs
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net9.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net9.0\FastFood.sourcelink.json
