@@ -1,0 +1,15 @@
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.AssemblyInfoInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.AssemblyInfo.cs
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.csproj.CoreCompileInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.sourcelink.json
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\bin\Debug\net9.0\Miner.exe
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\bin\Debug\net9.0\Miner.deps.json
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\bin\Debug\net9.0\Miner.runtimeconfig.json
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\bin\Debug\net9.0\Miner.dll
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\bin\Debug\net9.0\Miner.pdb
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.dll
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\refint\Miner.dll
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.pdb
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\Miner.genruntimeconfig.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Miner\obj\Debug\net9.0\ref\Miner.dll
