@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayManipulator", "J
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnightGame", "KnightGame\KnightGame.csproj", "{C2760C17-FC76-42B9-AF9C-FA6017E896A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bombs", "Bombs\Bombs.csproj", "{94E96CC7-3874-47AD-87D8-81711264FF29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{C2760C17-FC76-42B9-AF9C-FA6017E896A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2760C17-FC76-42B9-AF9C-FA6017E896A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2760C17-FC76-42B9-AF9C-FA6017E896A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E96CC7-3874-47AD-87D8-81711264FF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E96CC7-3874-47AD-87D8-81711264FF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E96CC7-3874-47AD-87D8-81711264FF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E96CC7-3874-47AD-87D8-81711264FF29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

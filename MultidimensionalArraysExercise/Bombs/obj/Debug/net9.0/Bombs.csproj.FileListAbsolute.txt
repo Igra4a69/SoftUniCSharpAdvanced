@@ -1,0 +1,5 @@
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net9.0\Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net9.0\Bombs.AssemblyInfoInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net9.0\Bombs.AssemblyInfo.cs
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net9.0\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net9.0\Bombs.sourcelink.json
