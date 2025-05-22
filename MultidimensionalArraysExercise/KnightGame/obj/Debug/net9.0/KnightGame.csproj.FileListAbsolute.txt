@@ -1,0 +1,5 @@
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net9.0\KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net9.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net9.0\KnightGame.AssemblyInfo.cs
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net9.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\pavsh\Documents\Coding\ItCareerRepos\SoftUniCSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net9.0\KnightGame.sourcelink.json
