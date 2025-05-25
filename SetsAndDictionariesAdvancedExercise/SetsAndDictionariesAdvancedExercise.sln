@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wardrobe", "Wardrobe\Wardro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheVLogger", "TheVLogger\TheVLogger.csproj", "{F4160A80-7D83-4CFF-8405-845DB1CF758A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking", "Ranking\Ranking.csproj", "{C4B70C7C-9358-46F4-A186-8F80BFC4361A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F4160A80-7D83-4CFF-8405-845DB1CF758A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4160A80-7D83-4CFF-8405-845DB1CF758A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4160A80-7D83-4CFF-8405-845DB1CF758A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B70C7C-9358-46F4-A186-8F80BFC4361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B70C7C-9358-46F4-A186-8F80BFC4361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B70C7C-9358-46F4-A186-8F80BFC4361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B70C7C-9358-46F4-A186-8F80BFC4361A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
