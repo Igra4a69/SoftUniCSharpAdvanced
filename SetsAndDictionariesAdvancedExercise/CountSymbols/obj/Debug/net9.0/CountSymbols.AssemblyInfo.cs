@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountSymbols")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b0a82174c4f38d1aa56c93697523281425f0cf3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49f50e13de1b369f6ae82c45706183eb826d83f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountSymbols")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountSymbols")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

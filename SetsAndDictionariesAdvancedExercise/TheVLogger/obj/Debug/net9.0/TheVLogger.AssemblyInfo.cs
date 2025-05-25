@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheVLogger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+067b18b71fa72ceb93703f846c6c25d672ac2f13")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49f50e13de1b369f6ae82c45706183eb826d83f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheVLogger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheVLogger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
