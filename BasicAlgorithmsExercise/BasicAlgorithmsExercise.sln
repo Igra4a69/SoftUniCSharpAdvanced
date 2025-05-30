@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\Merg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quicksort", "Quicksort\Quicksort.csproj", "{8301258B-2F28-4456-9625-4F9F6D3396D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{D1C64191-542F-4095-971D-9D9DF7F33D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{8301258B-2F28-4456-9625-4F9F6D3396D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8301258B-2F28-4456-9625-4F9F6D3396D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8301258B-2F28-4456-9625-4F9F6D3396D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C64191-542F-4095-971D-9D9DF7F33D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C64191-542F-4095-971D-9D9DF7F33D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C64191-542F-4095-971D-9D9DF7F33D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C64191-542F-4095-971D-9D9DF7F33D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
