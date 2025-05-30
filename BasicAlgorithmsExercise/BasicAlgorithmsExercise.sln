@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveArraySum", "RecursiveArraySum\RecursiveArraySum.csproj", "{E6FD85A8-9B82-46E3-BDFA-EFB019617CBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "RecursiveFactorial\RecursiveFactorial.csproj", "{93236D5E-5319-4546-81C1-ED657C5ECBAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E6FD85A8-9B82-46E3-BDFA-EFB019617CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6FD85A8-9B82-46E3-BDFA-EFB019617CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6FD85A8-9B82-46E3-BDFA-EFB019617CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93236D5E-5319-4546-81C1-ED657C5ECBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93236D5E-5319-4546-81C1-ED657C5ECBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93236D5E-5319-4546-81C1-ED657C5ECBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93236D5E-5319-4546-81C1-ED657C5ECBAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
