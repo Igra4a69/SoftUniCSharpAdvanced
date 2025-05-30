@@ -1,4 +1,4 @@
-﻿namespace Count_Uppercase_Words;
+﻿namespace CountUppercaseWords;
 
 class Program
 {
